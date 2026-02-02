@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "columns": {
+    "area_km2": "Float",
+    "stage_m": "Float",
+    "system:index": "String",
+    "volume_km3": "Float"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "10",
+      "properties": {
+        "area_km2": 0,
+        "stage_m": 1270,
+        "volume_km3": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "9",
+      "properties": {
+        "area_km2": 121.27602221999359,
+        "stage_m": 1271,
+        "volume_km3": 0.04935714940902441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "8",
+      "properties": {
+        "area_km2": 266.30455795882415,
+        "stage_m": 1272,
+        "volume_km3": 0.2518820943194506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "7",
+      "properties": {
+        "area_km2": 414.067233957695,
+        "stage_m": 1273,
+        "volume_km3": 0.5927852809036653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "6",
+      "properties": {
+        "area_km2": 547.6467504542999,
+        "stage_m": 1274,
+        "volume_km3": 1.0711726756019004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "5",
+      "properties": {
+        "area_km2": 697.0703563053055,
+        "stage_m": 1275,
+        "volume_km3": 1.6921344142027581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "4",
+      "properties": {
+        "area_km2": 814.654401268898,
+        "stage_m": 1276,
+        "volume_km3": 2.447424545522159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "3",
+      "properties": {
+        "area_km2": 910.5583747819901,
+        "stage_m": 1277,
+        "volume_km3": 3.312485054731344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "2",
+      "properties": {
+        "area_km2": 1025.4233659320755,
+        "stage_m": 1278,
+        "volume_km3": 4.276694779085252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "1",
+      "properties": {
+        "area_km2": 1241.8740047213907,
+        "stage_m": 1279,
+        "volume_km3": 5.387243227056292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "0",
+      "properties": {
+        "area_km2": 1445.6638395695145,
+        "stage_m": 1280,
+        "volume_km3": 6.741096896608748
+      }
+    }
+  ]
+}
