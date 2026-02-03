@@ -32,3 +32,16 @@ Daily_combined - daily average lake levels reported in meters, NGVD29
 
 Great_Salt_Lake_2023_ElevAreaVolume_north_arm.csv - Stage-area-volume table that relates all three aspects.
 This table encodes the hypsomtry of the lake. Values reported in NAVD88
+
+
+Results:
+Took at the two pngs in the repo.
+
+The linear extrapolation produces a zero water timeline of about 7 years.
+Implementing the effect of surface area on the rate of volume loss, brought the estimate up to 13.9 years.
+
+Assumptions:
+One major assumption is that the conditions during this time period are typical. 
+There were a few months that had anormally high precipitation, so that is something to consider.
+
+Another assumption is that if the north arm were to be cut off, it would experience similar conditions to what it did in 2013-2016.
