@@ -24,8 +24,8 @@ Calculates daily change in lake volume
 Fits a trend line to the change in lake volume to derive the average change in volume of the lake 
 
 Two models:
-1.) Linear interpolation deriving the amount of time it would take for current volume to reach zero
-2.) Interpolation using change in surface area to inform estimated depth loss
+1.) Linear extrapolation deriving the amount of time it would take for current volume to reach zero
+2.) Extrapolate using change in area to inform estimated depth loss
 
 Input data:
 Daily_combined - daily average lake levels reported in meters, NGVD29
