@@ -40,7 +40,7 @@ The rate of water loss during the observation period was found to be -0.5519 kmÂ
 The linear extrapolation produces a zero water timeline of about 7.3 years (see below).
 Implementing the effect of surface area on the rate of volume loss produces an estimate of 13.9 years.
 ![alt text](https://github.com/cjlinville/NorthArmGSL/blob/main/ModelOutputGraph.png "Results")
-
+[logo]: https://github.com/cjlinville/NorthArmGSL/blob/main/ModelOutputGraph.png "Results"
 Assumptions:
 One major assumption is that the conditions during this time period are typical. 
 There were a few months that had anormally high precipitation, so that is something to consider.
