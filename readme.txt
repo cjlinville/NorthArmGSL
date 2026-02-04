@@ -1,7 +1,7 @@
 Great Salt Lake North Arm Decline Analysis
 
-This script analyzes the rate of water loss of the North Arm of the Great Salt Lake between Jan 1st, 2013 to December 16, 2016.
-During this time, the north arm was isolated from the south arm due to culvert construction on the causeway that separates the two arms.
+This Jupyter notebook analyzes water loss in the North Arm of the Great Salt Lake from January 1, 2013, to December 16, 2016.
+During this time, construction on the culverts beneath the causeway isolated the North Arm from the South Arm, isolating the two basins.
 Using daily lake stage observations, a stage–area–volume relationship, and two different modeling approaches, 
 we can esimate the amount of time it would take for the north arm to fully dry up if these conditions became permanent.
 
@@ -35,10 +35,11 @@ This table encodes the hypsomtry of the lake. Values reported in NAVD88
 
 
 Results:
-Took at the two pngs in the repo.
+The rate of water loss during the observation period was found to be -0.5519 km³ per year
 
-The linear extrapolation produces a zero water timeline of about 7 years.
-Implementing the effect of surface area on the rate of volume loss, brought the estimate up to 13.9 years.
+The linear extrapolation produces a zero water timeline of about 7.3 years (see below).
+Implementing the effect of surface area on the rate of volume loss produces an estimate of 13.9 years.
+![alt text](https://github.com/cjlinville/NorthArmGSL/blob/main/ModelOutputGraph.png "Results")
 
 Assumptions:
 One major assumption is that the conditions during this time period are typical. 
